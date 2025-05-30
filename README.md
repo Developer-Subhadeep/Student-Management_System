@@ -27,5 +27,5 @@ A simple Java application that allows you to manage student data such as name, I
 
 ---
 
-## 📁 Folder Structure
+
 
